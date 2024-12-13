@@ -1,0 +1,70 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.parallax-section {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#section1 {
+    background-image: url('https://i.imgur.com/Iqn4FBq.jpeg');
+}
+
+#section2 {
+    background-image: url('https://i.imgur.com/Iqn4FBq.jpeg');
+}
+
+#section3 {
+    background-image: url('https://i.imgur.com/Iqn4FBq.jpeg');
+}
+
+#section4 {
+    background-image: url('https://i.imgur.com/Iqn4FBq.jpeg');
+}
+
+#section5 {
+    background-image: url('https://i.imgur.com/Iqn4FBq.jpeg');
+}
+
+#section6 {
+    background-image: url('https://i.imgur.com/Iqn4FBq.jpeg');
+}
+
+#section7 {
+    background-image: url('https://i.imgur.com/Iqn4FBq.jpeg');
+}
+
+#section8 {
+    background-image: url('https://i.imgur.com/Iqn4FBq.jpeg');
+}
+
+.content-section {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+.content-section p {
+    margin: 0 auto;
+    width: 80%;
+    font-size: 1.5em;
+}
+
+footer {
+    background-color: #52057B;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
